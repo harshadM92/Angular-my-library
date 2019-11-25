@@ -1,0 +1,26 @@
+cdk-virtual-scroll-viewport {
+    width: 350px;
+    height: 200px;
+}
+.table-container {
+    display: inline-flex;
+}
+.example-item {
+    height: 50px;
+    border: 1px solid;
+    width: 100px;
+}
+.frozen-table {
+    overflow-y: scroll;
+    width: 300px;
+    overflow-x: scroll;
+    // height: 200px;
+}
+.scroll-table {
+    // height: 198px;
+    overflow-x: scroll;
+}
+.p-table-custom {
+    width: 833.32px;
+    margin-left: 100px;
+}
